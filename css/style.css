@@ -24,15 +24,15 @@ h4 {
 }
 
 .linear1 {
-  background: linear-gradient(#408740, #22aa44);
+  background: linear-gradient(0.25turn, #408740, #22aa44);
 }
 
 .linear2 {
-  background: linear-gradient(#e66465, #9198e5);
+  background: linear-gradient(0.25turn, #e66465, #9198e5);
 }
 
 .linear3 {
-  background: linear-gradient(#e66465, #9198e5);
+  background: linear-gradient(0.25turn, #e66465, #9198e5);
 }
 
 .amiable {
