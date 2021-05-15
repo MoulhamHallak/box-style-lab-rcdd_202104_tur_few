@@ -44,17 +44,16 @@ h4 {
 
 .small {
   width: 100%;
-  height: 100%;
+  height: 100%;  
+  border-image: solid;
 }
 
 .med {
   width: 203.5%;
+  border-image: solid;
 }
 
 .large {
   width: 303%;
-}
-
-img {
-  border: solid;
+  border-image: solid;
 }
